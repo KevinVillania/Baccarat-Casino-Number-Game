@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611070636 source:c:\users\kevin holden\documents\github\casino-number-game\casino number game\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+
